@@ -1,0 +1,28 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "A simple Mean Example ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MISSEY/contaclist.git"
+  },
+  "author": "Saurabh Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MISSEY/contaclist/issues"
+  },
+  "homepage": "https://github.com/MISSEY/contaclist#readme",
+  "dependencies": {
+    "@angular/cli": "^6.2.5",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "g": "^2.0.1",
+    "mongoose": "^5.2.13",
+    "nodemon": "^1.18.4"
+  }
+}
